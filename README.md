@@ -1,0 +1,2 @@
+# MultipleFileSaver
+Qt线程池文件存储，将文件的字节流丢进文件的FileSaver内，其会通过QThreadPool将所有的文件保存到你指定好的未知。需要通过FileSaver，没有使用例，如有疑问请提交issu
